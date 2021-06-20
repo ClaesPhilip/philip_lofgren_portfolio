@@ -4,6 +4,6 @@ This is my active portfolio. At the moment I'm working on a new portfolio made w
 
 ## Project
 
-This project is made with React, GSAP and CSS.
+This project is made with React, GSAP and SASS.
 
 
